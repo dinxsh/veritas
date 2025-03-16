@@ -1,11 +1,15 @@
+<<<<<<< HEAD
 # veritas
 100xdevs accountability superteam bounty 
+=======
+# Veritas
+>>>>>>> ee17ba4 (Initial commit)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
-[![GitHub issues](https://img.shields.io/github/issues/dinxsh/daiict_hack_2024)](https://github.com/dinxsh/daiict_hack_2024/issues)
-[![GitHub stars](https://img.shields.io/github/stars/dinxsh/daiict_hack_2024)](https://github.com/dinxsh/daiict_hack_2024/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/dinxsh/veritas)](https://github.com/dinxsh/daiict_hack_2024/issues)
+[![GitHub stars](https://img.shields.io/github/stars/dinxsh/veritas)](https://github.com/dinxsh/daiict_hack_2024/stargazers)
 
 ## Setup 💻
 
@@ -16,12 +20,12 @@
 
 2. Clone the repository:
 
-   ```git clone https://github.com/dinxsh/high-fi.git```
+   ```git clone https://github.com/dinxsh/veritas.git```
 
 
 3. Install dependencies:
 
-   ```cd high-fi
+   ```cd veritas
    npm install
    ```
 
@@ -39,7 +43,7 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 We use GitHub issues to track bugs and feature requests. Please ensure your description is clear and has sufficient instructions to be able to reproduce the issue or understand the proposed feature.
 
 ## Roadmap 🗺️
-Check out our [project board](https://github.com/dinxsh/high-fi/projects) to see what we're planning for the future of Aarogya!
+Check out our [project board](https://github.com/dinxsh/veritas/projects) to see what we're planning for the future!
 
 ## Tech Stack 🛠️
 - React Native with Expo
