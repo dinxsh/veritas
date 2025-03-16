@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 # veritas
 100xdevs accountability superteam bounty 
-=======
-# Veritas
->>>>>>> ee17ba4 (Initial commit)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
@@ -52,7 +48,7 @@ Check out our [project board](https://github.com/dinxsh/veritas/projects) to see
 - Aptos wallet integration
 
 ## License 🗝️
-Aarogya is released under the MIT License. See [LICENSE](LICENSE) for details. It's basically our way of saying "use it, abuse it, but please don't sue us". 😄
+Veritas is released under the MIT License. See [LICENSE](LICENSE) for details. It's basically our way of saying "use it, abuse it, but please don't sue us". 😄
 
 ## Acknowledgements 👏
 - [Expo](https://expo.io/) for making mobile development a breeze
@@ -62,7 +58,3 @@ Aarogya is released under the MIT License. See [LICENSE](LICENSE) for details. I
 ## Support 🙏
 If you like what we're doing, consider giving us a ⭐️ on GitHub!
 
----
-
-Made with ❤️ and a lot of ☕ by the [Dinesh Talwadker](https://github.com/dinxsh)
->>>>>>> 7647540 (Initial commit)
