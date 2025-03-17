@@ -1,60 +1,65 @@
-# veritas
-100xdevs accountability superteam bounty 
+## Vitals
+### Blockchain-Powered Fitness Accountability Platform
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
-[![GitHub issues](https://img.shields.io/github/issues/dinxsh/veritas)](https://github.com/dinxsh/daiict_hack_2024/issues)
-[![GitHub stars](https://img.shields.io/github/stars/dinxsh/veritas)](https://github.com/dinxsh/daiict_hack_2024/stargazers)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Solana](https://img.shields.io/badge/Solana-Powered-purple)](https://solana.com/)
 
-## Setup 💻
+## Overview
 
-1. **Install Expo CLI:**
-   ```bash
-   npm install -g expo-cli
-   ```
+Vitals transforms fitness tracking into a blockchain-powered accountability system that leverages financial incentives and competition to drive goal completion. Users commit to fitness challenges by staking funds, with rewards distributed to those who successfully complete their goals.
 
-2. Clone the repository:
+## Key Features
 
-   ```git clone https://github.com/dinxsh/veritas.git```
+- **Stake-to-Succeed Challenges**: Join challenges by staking funds (e.g., $300) tied to specific fitness goals
+- **Automated Verification**: Seamless integration with Google Fit, Apple Health, and Fitbit for transparent progress tracking
+- **Reward Distribution**: Complete your goals to reclaim your stake plus a share of funds from unsuccessful participants
+- **Social Engagement**: Compete in public challenges or create private groups with friends
+- **Real-time Leaderboards**: Track progress, earn badges, and stay motivated with gamified elements
 
+## Technology Stack
 
-3. Install dependencies:
+- **Blockchain**: Solana for secure, transparent transactions
+- **Mobile**: Native application for iOS and Android
+- **API Integrations**: Google Fit, Apple Health, Fitbit for fitness data verification
+- **Smart Contracts**: Secure fund management and automated reward distribution
 
-   ```cd veritas
-   npm install
-   ```
+## Getting Started
 
-4. Start the project:
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/vitals.git
 
-   ```expo start```
+# Install dependencies
+cd vitals
+npm install
 
-## Contributing 🫂
-All contributions are welcome! Please read our [Contributing Guide](CONTRIBUTING.md) for more information on how to get started. We promise we don't bite (unless you're a bug in the code).
+# Configure environment
+cp .env.example .env
+# Edit .env with your API keys and Solana configuration
 
-## Code of Conduct 🤝
-Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
+# Run development server
+npm run dev
+```
 
-## Issues and Feature Requests 🐛
-We use GitHub issues to track bugs and feature requests. Please ensure your description is clear and has sufficient instructions to be able to reproduce the issue or understand the proposed feature.
+## Documentation
 
-## Roadmap 🗺️
-Check out our [project board](https://github.com/dinxsh/veritas/projects) to see what we're planning for the future!
+- [Installation Guide](docs/installation.md)
+- [API Reference](docs/api-reference.md)
+- [Smart Contract Specifications](docs/smart-contracts.md)
+- [Testing Guide](docs/testing.md)
 
-## Tech Stack 🛠️
-- React Native with Expo
-- Node.js backend (Express.js)
-- MongoDB for data storage
-- Aptos wallet integration
+## Contributing
 
-## License 🗝️
-Veritas is released under the MIT License. See [LICENSE](LICENSE) for details. It's basically our way of saying "use it, abuse it, but please don't sue us". 😄
+Contributions are welcome! Please check out our [Contributing Guidelines](CONTRIBUTING.md).
 
-## Acknowledgements 👏
-- [Expo](https://expo.io/) for making mobile development a breeze
-- [React Native](https://reactnative.dev/) for the cross-platform magic
-- All our amazing contributors who make Aarogya better every day
+## License
 
-## Support 🙏
-If you like what we're doing, consider giving us a ⭐️ on GitHub!
+This project is dual-licensed under MIT and Apache 2.0 licenses.
 
+## Contact
+
+- Website: [vitals.vercel.app](https://highfi.app)
+- Twitter: [@dineshcodes](https://twitter.com/HighFiApp)
+
+Turn every workout into a rewarding investment in your health and wallet!
